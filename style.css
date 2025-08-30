@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: "sacramento" , cursive;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+}
+.mountain{
+    margin-left: +490px;
+    margin-top: -5px;
+    margin-bottom: +200px;
+}
+.top-cloud{
+    margin-bottom: 200px;
+}
+.first-section{
+  background-color: aliceblue;
+}
+.cloud{
+    margin-left: 200px;
+    margin-top: -300px;
+
+    
+}
+.second.section{
+    color: aqua;
+    text-align: center;
+}
+h3{
+    color: rgb(32, 204, 147);
+    text-align: center;
+    font-family:"sacramento" cursive;
+    font-size: 60px;
+
+}
+.angela{
+    margin-left: +790px;
+}
+p{
+    text-align: center;
+     
+}
+h4{
+    text-align: center;
+    color: blue;
+    margin-top: -100px;
+    font: 500px;
+    font-size: 50px;
+    margin-top: -220px;
+}
+.cat{
+    margin-left: +300px;
+    margin-top: -20px;
+    margin-bottom: -100px;
+}
+.chillie{
+    margin-top: +200px;
+    margin-left: +200px;
+}
+.fax{
+  margin-bottom: -90px;  
+}
